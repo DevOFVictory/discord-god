@@ -1,5 +1,7 @@
 # discord-god
-my ultimate discord bot
-you can use it on your server but don't use it to make profit and please credit me
-also you'll have to change some things like the token and other stuff that will make it not work
-have fun with it
+1. the bot language is german
+2. credit me
+3. you will have to make some personal changes when it says insert whatever
+4. please report bugs to me
+5. you have to install some discord modules to use the bot
+6. have fun with it
