@@ -4,12 +4,12 @@
 ---
 
 ### About this project
-This discord bot was created in python to improve my coding skills in a funny way. With this bot, you can collect dinos on your server and trade these with other members. Every day you can collect a reward to keep your collection streak every day and get more coins. With these coins, you can either gamble for random dinos or trade with other server members.
+This discord bot was created in python. With this bot, you can collect dinos on your server and trade these with other members. Every day you can collect a reward to keep your collection streak and get more coins. With these coins, you can either gamble for random dinos or trade with other server members.
 
 ### Features
 - Database System implemented
 - Streak improvement by every day
-- Bot contains about 100 dinosaurs
+- Bot contains more than 100 dinosaurs
 - Gamble system with different probabilities
 - Public trading station for all members
 - Beautiful embeds
